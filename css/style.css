@@ -1,0 +1,16 @@
+h1{
+    font-family: "Anton", sans-serif;
+  font-size: 80px !important;
+  font-weight: bold !important;
+  display: block !important;
+}
+
+.bt{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    /* color: white; */
+}
+.bt:hover{
+    background-color: green;
+}
